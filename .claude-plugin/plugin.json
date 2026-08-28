@@ -1,0 +1,16 @@
+{
+  "name": "proof-carrying-release",
+  "version": "0.1.0",
+  "description": "Carry an exact software revision through Graphite, candidate/canary gates, canonical live proof, rollback, evidence closure, and recoverable only-main cleanup.",
+  "author": { "name": "Homen Shum" },
+  "repository": "https://github.com/HomenShum/proof-carrying-release",
+  "license": "MIT",
+  "keywords": [
+    "release",
+    "graphite",
+    "deployment",
+    "canary",
+    "rollback",
+    "evidence"
+  ]
+}
